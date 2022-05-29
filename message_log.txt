@@ -1,0 +1,606 @@
+{'Data': '18 | January | 2022', 'Czas': '16:22:35', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '!clear'}
+
+{'Data': '18 | January | 2022', 'Czas': '16:22:35', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'Podano niepoprawny argument'}
+
+{'Data': '18 | January | 2022', 'Czas': '16:22:45', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '!clear 5'}
+
+{'Data': '18 | January | 2022', 'Czas': '16:33:36', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'asd'}
+
+{'Data': '18 | January | 2022', 'Czas': '20:47:13', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:49:58', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'https://vm.tiktok.com/ZMLe3XDaT/'}
+
+{'Data': '18 | January | 2022', 'Czas': '20:50:54', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:50:56', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:50:59', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:51:02', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:51:10', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:51:38', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:53:25', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:55:11', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '18 | January | 2022', 'Czas': '20:57:07', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '<@!695206503702855680>'}
+
+{'Data': '18 | January | 2022', 'Czas': '21:52:20', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'https://youtu.be/99zl_tDJVes'}
+
+{'Data': '19 | January | 2022', 'Czas': '00:20:23', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': "!ascii I'm Discord bot"}
+
+{'Data': '19 | January | 2022', 'Czas': '00:20:24', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': "``` ___ _             ____  _                       _   _           _   \n|_ _( )_ __ ___   |  _ \\(_)___  ___ ___  _ __ __| | | |__   ___ | |_ \n | ||/| '_ ` _ \\  | | | | / __|/ __/ _ \\| '__/ _` | | '_ \\ / _ \\| __|\n | |  | | | | | | | |_| | \\__ \\ (_| (_) | | | (_| | | |_) | (_) | |_ \n|___| |_| |_| |_| |____/|_|___/\\___\\___/|_|  \\__,_| |_.__/ \\___/ \\__|\n                                                                     \n```"}
+
+{'Data': '19 | January | 2022', 'Czas': '00:22:00', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '!papieroski 13.99 4 1'}
+
+{'Data': '19 | January | 2022', 'Czas': '00:22:00', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '11:51:57', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'https://youtu.be/SfDsSXTKU1E'}
+
+{'Data': '19 | January | 2022', 'Czas': '14:20:34', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '14:43:13', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '14:44:18', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '14:46:59', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '15:01:18', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '15:04:41', 'User': <Member id=245228967282343936 name='Łukaszz' discriminator='5653' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '@everyone\nWho is first? :)\nhttps://discrde.gift/QEHnDhAbECvcW'}
+
+{'Data': '19 | January | 2022', 'Czas': '15:04:43', 'User': <Member id=245228967282343936 name='Łukaszz' discriminator='5653' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '@everyone\nWho is first? :)\nhttps://discrde.gift/QEHnDhAbECvcW'}
+
+{'Data': '19 | January | 2022', 'Czas': '15:04:45', 'User': <Member id=245228967282343936 name='Łukaszz' discriminator='5653' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '@everyone\nWho is first? :)\nhttps://discrde.gift/QEHnDhAbECvcW'}
+
+{'Data': '19 | January | 2022', 'Czas': '15:04:54', 'User': <Member id=245228967282343936 name='Łukaszz' discriminator='5653' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '@everyone\nWho is first? :)\nhttps://discrde.gift/QEHnDhAbECvcW'}
+
+{'Data': '19 | January | 2022', 'Czas': '15:04:56', 'User': <Member id=245228967282343936 name='Łukaszz' discriminator='5653' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '@everyone\nWho is first? :)\nhttps://discrde.gift/QEHnDhAbECvcW'}
+
+{'Data': '19 | January | 2022', 'Czas': '15:04:58', 'User': <Member id=245228967282343936 name='Łukaszz' discriminator='5653' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '@everyone\nWho is first? :)\nhttps://discrde.gift/QEHnDhAbECvcW'}
+
+{'Data': '19 | January | 2022', 'Czas': '15:18:12', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '15:18:49', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '15:34:46', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '15:41:34', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '15:53:07', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'https://www.youtube.com/watch?v=c6F72IZuLBM <@!266945867213307905>'}
+
+{'Data': '19 | January | 2022', 'Czas': '15:53:13', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '15:58:21', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '16:01:51', 'User': <Member id=933372151115960402 name='Sadowska w <3' discriminator='4952' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '16:07:32', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '16:11:02', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '-'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:11:03', 'User': <Member id=204255221017214977 name='YAGPDB.xyz' discriminator='8760' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Edit this to change the output of the command!'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:35:45', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '16:36:59', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '16:39:47', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'jest'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:45:28', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtu.be/SfDsSXTKU1E'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:45:28', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=SfDsSXTKU1E`)'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:04', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'kurwo graj'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:14', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#stop'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:15', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':notes: Zatrzymano odtwarzanie muzyki oraz wyczyszczono utwory znajdujące się w kolejce.'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:20', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtu.be/SfDsSXTKU1E'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:20', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=SfDsSXTKU1E`)'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:36', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#queue'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:40', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '**:arrow_forward: Malcolm x Pattros - All Champ - League of Legends**'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:47', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#ping'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:46:47', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'pong! :ping_pong:'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:47:08', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#ogar'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:51:09', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!info 933372151115960402'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:51:09', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '16:51:42', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!info'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:51:49', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!info 248456245395193858'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:51:49', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Brak uprawnień do tej komendy'}
+
+{'Data': '19 | January | 2022', 'Czas': '16:54:13', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '<@!933372151115960402>  TO ZDJĘCIE JEST BOSKIE xD ❤️'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:08:14', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '............................................................................................................................'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:08:30', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Rozpoznawanie równań liniowych'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:09:54', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:13:47', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '----------------------------------------------------------------------------'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:13:51', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Twierdzenie Cramera'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:13:52', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:15:51', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:17:23', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:17:40', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://vm.tiktok.com/ZMLdjXcM3/'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:22:29', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Rozwiązywanie zadanka:'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:22:34', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:23:12', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:24:49', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:25:16', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:25:20', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:27:32', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Twierdzenie K-C (czyli moje):'}
+
+{'Data': '19 | January | 2022', 'Czas': '17:42:48', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:42:53', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:46:20', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:47:59', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '17:48:20', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:00:16', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:03:40', 'User': <Member id=695206503702855680 name='Jesus “Hesus” Christ' discriminator='6952' bot=False nick='Dżosz' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:09:33', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:13:37', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:18:05', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:18:19', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:25:17', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:34:28', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:42:26', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '18:47:04', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '19:42:31', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://www.youtube.com/watch?v=1T3didDN1kk'}
+
+{'Data': '19 | January | 2022', 'Czas': '19:42:31', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=1T3didDN1kk`)'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:09:23', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtu.be/KxyD4-wvWDE'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:09:24', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=KxyD4-wvWDE`)'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:11:45', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtu.be/RaUxs1o5JVM'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:11:46', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=RaUxs1o5JVM`)'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:47:54', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '20:55:34', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtu.be/wkfw1J0ddDE'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:55:34', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=wkfw1J0ddDE`)'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:55:51', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtu.be/Ju-qGdTfK08'}
+
+{'Data': '19 | January | 2022', 'Czas': '20:55:52', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=Ju-qGdTfK08`)'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:07:14', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'mordo pejpal'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:07:25', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'no pejpal dokładnie'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:07:39', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'paypal vs pejpel kurwa twoja mać'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:08:12', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '21:28:27', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!psychomove 323091748660183040 689431083426906158 694998468049108994 6'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:28:36', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 1'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:29:01', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move 595992124533637121 689435352045453333'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:29:03', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 1'}
+
+{'Data': '19 | January | 2022', 'Czas': '21:50:25', 'User': <Member id=194487652962009091 name='optisu' discriminator='3285' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '19 | January | 2022', 'Czas': '22:30:03', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move 408698577112662016 689430584317182211'}
+
+{'Data': '19 | January | 2022', 'Czas': '22:30:15', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!mute 408698577112662016'}
+
+{'Data': '19 | January | 2022', 'Czas': '22:30:20', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!unmute 408698577112662016'}
+
+{'Data': '19 | January | 2022', 'Czas': '22:30:25', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 3'}
+
+{'Data': '19 | January | 2022', 'Czas': '23:02:41', 'User': <Member id=323091748660183040 name='JaculaGoldMaker' discriminator='9980' bot=False nick='Tak To On' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '3majta sie'}
+
+{'Data': '19 | January | 2022', 'Czas': '23:16:47', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://w2g.tv/0mwe6r7l8r0z5epri1'}
+
+{'Data': '20 | January | 2022', 'Czas': '01:48:04', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '10:28:47', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'znajdź obrazek który nie pasuje do reszty'}
+
+{'Data': '20 | January | 2022', 'Czas': '10:58:35', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '10:58:46', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '10:59:22', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '10:59:33', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '11:47:58', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://w2g.tv/k79dbkkr6fuu2c2h2g'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:10:46', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://www.youtube.com/watch?v=tm5Z88WFiqs&list=PLJracTP7uCLLJbGtk87VuamwSzyAcBcsp'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:10:47', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=tm5Z88WFiqs`)'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:01', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#queue'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:01', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '**:arrow_forward: SB Maffija - Parapetówa**'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:09', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#stop'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:09', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':notes: Zatrzymano odtwarzanie muzyki oraz wyczyszczono utwory znajdujące się w kolejce.'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:13', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://www.youtube.com/watch?v=tm5Z88WFiqs&list=PLJracTP7uCLLJbGtk87VuamwSzyAcBcsp'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:13', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://www.youtube.com/watch?v=tm5Z88WFiqs`)'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:55', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#stop'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:56', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':notes: Zatrzymano odtwarzanie muzyki oraz wyczyszczono utwory znajdujące się w kolejce.'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:57', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtube.com/playlist?list=PLJracTP7uCLLJbGtk87VuamwSzyAcBcsp'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:11:58', 'User': <Member id=282859044593598464 name='ProBot ✨' discriminator='5803' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ':watch: Wyszukiwanie... (`https://youtube.com/playlist?list=PLJracTP7uCLLJbGtk87VuamwSzyAcBcsp`)'}
+
+{'Data': '20 | January | 2022', 'Czas': '13:19:27', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '#play https://youtube.com/playlist?list=PLJracTP7uCLLJbGtk87VuamwSzyAcBcsp'}
+
+{'Data': '20 | January | 2022', 'Czas': '14:19:31', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'WBMiI'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:03:51', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://www.youtube.com/watch?v=oqp0M5gbSEM'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:11:54', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '18:19:00', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '18:23:06', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> 689430584317182211 689431083426906158 3'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:23:23', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!psychomove <@!408698577112662016> 689430584317182211 689431083426906158 3'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:23:44', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move 266945867213307905 RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:24:07', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move 266945867213307905 266945867213307905'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:25:47', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move 266945867213307905 266945867213307905'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:26:19', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!iasd'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:26:20', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '*Nie ma takiej komendy. Daj mi w spokoju pilnować balkonu*'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:26:21', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '18:26:57', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:27:32', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move @Kurwa Diabeł RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:27:38', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 2'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:28:24', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:31:29', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 1'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:31:36', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:31:36', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Nie da się pokonać szefa :))'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:32:48', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 2'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:33:16', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:33:28', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905>  RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:34:21', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDESTT'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:34:28', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:34:28', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Nie da się pokonać szefa :))'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:34:42', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:34:42', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Nie da się pokonać szefa :))'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:35:55', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 6'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:36:07', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:36:07', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Nie da się pokonać szefa :))'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:36:17', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:36:17', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Nie da się pokonać szefa :))'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:36:25', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 5'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:39:25', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:39:37', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:42:51', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:46:49', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:47:20', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 5'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:47:30', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:49:50', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:50:03', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '18:50:08', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 5'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:06:25', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!408698577112662016> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:06:25', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Nie da się pokonać szefa :))'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:06:34', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:06:34', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Nie da się pokonać szefa :))'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:06:49', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!clear 5'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:07:47', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!move <@!266945867213307905> RDEST'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:09:35', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '19:09:55', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '19:14:05', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '-'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:14:05', 'User': <Member id=204255221017214977 name='YAGPDB.xyz' discriminator='8760' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Edit this to change the output of the command!'}
+
+{'Data': '20 | January | 2022', 'Czas': '19:19:39', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '20:14:47', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '20:46:10', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='PsychoDrwal.psd' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '20 | January | 2022', 'Czas': '21:30:52', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://w2g.tv/0mwe6r7l8r0z5epri1'}
+
+{'Data': '21 | January | 2022', 'Czas': '11:04:35', 'User': <Member id=194487652962009091 name='optisu' discriminator='3285' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '21 | January | 2022', 'Czas': '11:11:32', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '24 | January | 2022', 'Czas': '09:29:16', 'User': <Member id=819778342818414632 name='Activities' discriminator='3305' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': '[Click to open Watch Together in 🌿🎋𝒥𝒶𝓂𝒶𝒾𝒸𝒶🎋🌿](<https://discord.gg/AegqP4wqY9>)'}
+
+{'Data': '25 | January | 2022', 'Czas': '09:16:51', 'User': <Member id=748899874161950803 name='SamurajkaV2' discriminator='0884' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': 'help'}
+
+{'Data': '25 | January | 2022', 'Czas': '09:17:06', 'User': <Member id=748899874161950803 name='SamurajkaV2' discriminator='0884' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': 'umiecie takie coś robić?'}
+
+{'Data': '25 | January | 2022', 'Czas': '09:17:14', 'User': <Member id=748899874161950803 name='SamurajkaV2' discriminator='0884' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': 'matlab/ octave'}
+
+{'Data': '26 | January | 2022', 'Czas': '09:16:28', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Zad 1.\n\nWyświetl piramidę o zadanej wielkości:\n\n// ****\n\n// ***\n\n// *\n\nZad 2.\n\nZad 3.\n\nNapisz funkcję, która wyszukuje wspólne dzielniki 3 liczb oraz zwraca jako wartość NWD a jako czwarty parametr drugi co do wielkości dzielnik. Np. dla 40, 20, 10 zwróci 10 i 5.'}
+
+{'Data': '26 | January | 2022', 'Czas': '09:21:03', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '26 | January | 2022', 'Czas': '10:32:49', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://docs.google.com/document/d/1TYWSAeiCAdTB0V32w7Q5jj6yyz0s56q2/edit?usp=sharing&ouid=117079874731151573008&rtpof=true&sd=true'}
+
+{'Data': '28 | January | 2022', 'Czas': '11:10:47', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Tylko prawdziwi mędrcy i Ci którzy mieli zajebiste dzieciństwo zrozumieją'}
+
+{'Data': '28 | January | 2022', 'Czas': '11:29:08', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'piekne'}
+
+{'Data': '28 | January | 2022', 'Czas': '11:43:42', 'User': <Member id=314073574023364610 name='bart' discriminator='7953' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': ''}
+
+{'Data': '28 | January | 2022', 'Czas': '11:54:26', 'User': <Member id=608257394002231296 name='pierdolnik' discriminator='4311' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': 'Kradziej'}
+
+{'Data': '28 | January | 2022', 'Czas': '11:55:58', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': 'trzeba było też tu wysłać a to ode mnie wyraz szacunku do Ciebie bo meme jest zacny'}
+
+{'Data': '30 | January | 2022', 'Czas': '11:02:24', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=77>>, 'Treść': 'https://youtu.be/p7HqNT1TWTw?t=408'}
+
+{'Data': '03 | February | 2022', 'Czas': '11:06:16', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '04 | February | 2022', 'Czas': '07:27:25', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '05 | February | 2022', 'Czas': '08:59:08', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '06 | February | 2022', 'Czas': '19:37:37', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '18 | February | 2022', 'Czas': '14:36:27', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '18 | February | 2022', 'Czas': '15:02:33', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '18 | February | 2022', 'Czas': '15:02:46', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '18 | February | 2022', 'Czas': '15:02:51', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '19 | February | 2022', 'Czas': '10:55:19', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Na jakim serwerze gracie w lost arka?'}
+
+{'Data': '22 | February | 2022', 'Czas': '13:24:53', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': '8 osób mi w grupie zostało xDDDDDDDDDD'}
+
+{'Data': '22 | February | 2022', 'Czas': '13:25:07', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': '8 osób w grupie mi zostało xDDDDDDDD'}
+
+{'Data': '22 | February | 2022', 'Czas': '13:27:40', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'XDDDD'}
+
+{'Data': '22 | February | 2022', 'Czas': '15:38:16', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '23 | February | 2022', 'Czas': '13:18:10', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '23 | February | 2022', 'Czas': '13:37:17', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'https://www.youtube.com/watch?v=w_yB1sBjjrE'}
+
+{'Data': '24 | February | 2022', 'Czas': '14:10:24', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '24 | February | 2022', 'Czas': '14:16:33', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '24 | February | 2022', 'Czas': '14:21:54', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '24 | February | 2022', 'Czas': '14:25:21', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '24 | February | 2022', 'Czas': '14:31:44', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '24 | February | 2022', 'Czas': '14:38:04', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '25 | February | 2022', 'Czas': '23:05:43', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '25 | February | 2022', 'Czas': '23:05:51', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '26 | February | 2022', 'Czas': '12:37:44', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '26 | February | 2022', 'Czas': '12:38:01', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '01 | March | 2022', 'Czas': '14:05:19', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '01 | March | 2022', 'Czas': '14:05:34', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '01 | March | 2022', 'Czas': '14:05:57', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': '<@!595992124533637121>'}
+
+{'Data': '01 | March | 2022', 'Czas': '14:06:00', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Nie dla matiego'}
+
+{'Data': '01 | March | 2022', 'Czas': '14:06:15', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Nie dla rastamana'}
+
+{'Data': '01 | March | 2022', 'Czas': '20:00:11', 'User': <Member id=595992124533637121 name='Heman' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '03 | March | 2022', 'Czas': '08:10:07', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': '----------------- powtorka z fizyki'}
+
+{'Data': '03 | March | 2022', 'Czas': '08:11:42', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '03 | March | 2022', 'Czas': '08:12:40', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '03 | March | 2022', 'Czas': '08:14:03', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '03 | March | 2022', 'Czas': '08:18:43', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '03 | March | 2022', 'Czas': '08:19:11', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Wystarczy sie z 2 razy odezwac i macie plusa'}
+
+{'Data': '06 | March | 2022', 'Czas': '16:12:47', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '06 | March | 2022', 'Czas': '17:12:44', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '06 | March | 2022', 'Czas': '19:03:19', 'User': <Member id=608257394002231296 name='julkab' discriminator='4311' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Drogie majstry komputerowe, potrzebuje podlaczyc stary monitor do laptopa'}
+
+{'Data': '06 | March | 2022', 'Czas': '19:04:50', 'User': <Member id=608257394002231296 name='julkab' discriminator='4311' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '06 | March | 2022', 'Czas': '19:04:51', 'User': <Member id=608257394002231296 name='julkab' discriminator='4311' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Jaka wtyczkę potrzebuje kupic żeby go podłączyć bo to wielkie bydle nie wejdzie nigdzie'}
+
+{'Data': '06 | March | 2022', 'Czas': '19:04:55', 'User': <Member id=608257394002231296 name='julkab' discriminator='4311' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'I nie bijcie mnie, nie znam się na tym'}
+
+{'Data': '06 | March | 2022', 'Czas': '19:20:44', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'A jakie wejście masz w laptopie ?'}
+
+{'Data': '06 | March | 2022', 'Czas': '19:28:59', 'User': <Member id=608257394002231296 name='julkab' discriminator='4311' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '06 | March | 2022', 'Czas': '19:29:00', 'User': <Member id=608257394002231296 name='julkab' discriminator='4311' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Hdmi i USB kojarzę ale tego po lewej całkiem nie bardzo'}
+
+{'Data': '06 | March | 2022', 'Czas': '19:29:21', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'No to vga do hdmi'}
+
+{'Data': '06 | March | 2022', 'Czas': '19:29:31', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='Aiden Pierdziwiatr' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'Od 10 do 35zl kosztuje'}
+
+{'Data': '08 | March | 2022', 'Czas': '10:39:52', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '09 | March | 2022', 'Czas': '08:46:21', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '09 | March | 2022', 'Czas': '09:32:17', 'User': <Member id=304314339316203520 name='Walson' discriminator='1909' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': 'https://vm.tiktok.com/ZMLysLdPn/?k=1'}
+
+{'Data': '10 | March | 2022', 'Czas': '09:10:32', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '11 | March | 2022', 'Czas': '11:30:20', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=73>>, 'Treść': ''}
+
+{'Data': '12 | March | 2022', 'Czas': '12:32:41', 'User': <Member id=336179251000901632 name='BearStill' discriminator='5244' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=73>>, 'Treść': ''}
+
+{'Data': '12 | March | 2022', 'Czas': '14:33:43', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=73>>, 'Treść': 'core keeper'}
+
+{'Data': '15 | March | 2022', 'Czas': '14:34:32', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': '!donate'}
+
+{'Data': '15 | March | 2022', 'Czas': '14:34:32', 'User': <Member id=844534984420491276 name='VoltiBotV2' discriminator='5972' bot=True nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '09:51:57', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '09:55:39', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '11:13:28', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '11:23:31', 'User': <Member id=323031728929112075 name='Fletcher' discriminator='0763' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '11:26:01', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '11:35:28', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '11:46:12', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '11:51:09', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '20:19:27', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '16 | March | 2022', 'Czas': '21:30:06', 'User': <Member id=595992124533637121 name='Skryba' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=74>>, 'Treść': ''}
+
+{'Data': '18 | March | 2022', 'Czas': '11:40:32', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'https://www.youtube.com/watch?v=ssupcYuE31E'}
+
+{'Data': '18 | March | 2022', 'Czas': '20:28:35', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '!psychomove 266945867213307905 689435352045453333 689431083426906158 5'}
+
+{'Data': '18 | March | 2022', 'Czas': '20:28:41', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '!clear 1'}
+
+{'Data': '24 | March | 2022', 'Czas': '20:43:19', 'User': <Member id=595992124533637121 name='Skryba' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '27 | March | 2022', 'Czas': '13:24:38', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://www.youtube.com/watch?v=LLyD4thCPTs'}
+
+{'Data': '27 | March | 2022', 'Czas': '15:38:48', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '27 | March | 2022', 'Czas': '21:43:20', 'User': <Member id=595992124533637121 name='Skryba' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '28 | March | 2022', 'Czas': '10:07:54', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '28 | March | 2022', 'Czas': '10:22:41', 'User': <Member id=248456245395193858 name='Pezduś' discriminator='9672' bot=False nick='Chujowy Hubi' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'mialem.te.ksiazke.xDDDDDDDDD'}
+
+{'Data': '02 | April | 2022', 'Czas': '11:38:13', 'User': <Member id=406815756265979916 name='Lazy' discriminator='5600' bot=False nick='Tylko POWER FARMING' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://youtu.be/25Tt-tAGKEo'}
+
+{'Data': '03 | April | 2022', 'Czas': '16:42:30', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '03 | April | 2022', 'Czas': '16:42:37', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '03 | April | 2022', 'Czas': '16:42:40', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '03 | April | 2022', 'Czas': '16:44:13', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '03 | April | 2022', 'Czas': '16:46:09', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'https://www.youtube.com/watch?v=ReIHH9oiO_w'}
+
+{'Data': '05 | April | 2022', 'Czas': '16:03:30', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': ''}
+
+{'Data': '05 | April | 2022', 'Czas': '22:24:25', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '!psychomove 406815756265979916 689430584317182211 949327761183490068 20'}
+
+{'Data': '05 | April | 2022', 'Czas': '22:57:33', 'User': <Member id=595992124533637121 name='Skryba' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': '@everyone Vote ban <@!406815756265979916>  1/5'}
+
+{'Data': '05 | April | 2022', 'Czas': '22:57:46', 'User': <Member id=804148241141989379 name='ColinPLOT' discriminator='5355' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Vote ban @Tylko POWER FARMING  2/5'}
+
+{'Data': '05 | April | 2022', 'Czas': '22:57:56', 'User': <Member id=337613677723385857 name='DKr.' discriminator='5394' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=76>>, 'Treść': 'Vote ban @Tylko POWER FARMING  3/5'}
+
+{'Data': '11 | April | 2022', 'Czas': '13:31:39', 'User': <Member id=266945867213307905 name='🚬ℌ𝔬𝔪𝔦𝔢🚬' discriminator='0073' bot=False nick='Kurwa Diabeł' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '11 | April | 2022', 'Czas': '14:25:57', 'User': <Member id=408698577112662016 name='M0nk3y3' discriminator='8017' bot=False nick='kubsondupson' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': ''}
+
+{'Data': '15 | April | 2022', 'Czas': '17:12:21', 'User': <Member id=430410616046354432 name='Wróżbita Tadek' discriminator='4394' bot=False nick='Boguś' guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': '<@!595992124533637121> czy to prawda'}
+
+{'Data': '15 | April | 2022', 'Czas': '17:13:26', 'User': <Member id=595992124533637121 name='Skryba' discriminator='5594' bot=False nick=None guild=<Guild id=689426242868740113 name='Królestwo Grzybów' shard_id=None chunked=True member_count=75>>, 'Treść': 'Tak XD'}
+
